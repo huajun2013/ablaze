@@ -9,7 +9,9 @@
 	<modules>
 		<module>util</module>
 		<module>harvest</module>
+		<module>sale</module>
 		<module>product</module>
+		<module>common</module>
 	</modules>
 	<dependencies>
 		<dependency>
